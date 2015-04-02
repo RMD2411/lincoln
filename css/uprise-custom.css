@@ -1,0 +1,828 @@
+/* Main CSS File - Developed by Uprise Marketing */
+
+
+/* main styling */
+
+.bgr-menu{
+	position: absolute;
+	top: 19px;
+	left:20px;
+}
+
+.panel-padding{
+	padding:20px;
+}
+
+.bg-primary a:hover{
+	color:#31404e !important;
+}
+
+ul.nav li a:hover{
+	color:#a6aa12 !important;
+}
+
+.dropdown-menu > li > a:hover{
+	color:#a6aa12 !important;
+}
+
+p.welcome{
+	margin-left:10px;
+}
+
+.margin-top-label{
+	margin-top:15px;
+}
+
+.check-minus{
+	margin-top:-5px !important;
+}
+
+.table-hover tbody tr:hover td, .table-hover tbody tr:hover th {
+	background:#E8E8DA;
+}
+
+.green-icon{
+	color: #a6aa12;
+	font-size: 25px;
+	margin-right: 15px;
+}
+
+.green-btn{
+	background:#B7BA45;
+	border-color:transparent;
+}
+
+.green-btn:hover{
+	background:#7dc63c;
+	border-color: #73b836;
+}
+
+.goback{
+	padding-left:10px;
+	line-height:1.42857143;
+}
+
+a.goback{
+	color:#B7BA45;
+	font-size:14px;
+	margin-top:2px;
+}
+
+a.goback:hover{
+	text-decoration: underline;
+}
+
+.radio input[type="radio"], .radio-inline input[type="radio"], .checkbox input[type="checkbox"], .checkbox-inline input[type="checkbox"]{
+	margin-left:0 !important;
+}
+
+.spacing{
+	margin-top:20px;
+}
+
+.panel-height{
+	min-height:342px !important;
+}
+
+/* PROJECT STYLES */
+
+.project-head{
+	padding:0px; 
+	margin-top:-10px;
+	background:#eef0f2;
+}
+
+.project-head h2{
+	padding-left:20px;
+}
+
+.project-bg{
+	background:#eef0f2;
+	border-bottom:2px solid #dae0e1;
+	margin-top:-5px;
+}
+
+.breadcrumb {
+	background-color: #eef0f2;
+	border: none;
+	padding-left: 20px;
+	font-size: 12px;
+}
+
+ol.breadcrumb li.active{
+	color:#575b58;
+	font-weight:bold;
+}
+
+.lights{
+	padding-right:20px;
+	font-size:16px;
+	margin-top:-10px;
+}
+
+.green-light{
+	color:#58b16c;
+}
+
+/* User Icon Styling */
+
+div.lter.nav-user.hidden-xs.pos-rlt{
+	border-top:none;
+	border-bottom:none;
+}
+
+
+/* Jyles Styles */
+
+
+
+.number-road-section-selection-lg-button:first-child {margin-left: 0px;}
+
+
+.number-road-section-selection-lg-button {/*float:left*/;background-color:#F7F7F7;color: #a6aa12 !important;margin-left: 10px;}
+
+.number-road-section-selection {float:left;width:44px;background-color:#F7F7F7;color: #a6aa12 !important;margin-left: 10px;}
+
+
+
+/* Gridster Styling */
+.gridster{
+    padding:10px;
+}
+
+.gridster ul li{
+    list-style:none;
+    padding-top:20px;
+}
+
+.greybox{
+    width:200px;
+    height:200px;
+    background-color:#8d8d8d ;
+    display:block;
+}
+
+
+/* Status circles */
+
+
+.red-circle {color: #ff0800;}
+
+.green-circle {color: #008000;}
+
+.yellow-circle {color: #fcff02;}
+
+
+
+/* Red Cross */
+
+.red-cross {color: #ff0800;}
+
+
+
+/* Page Icons */
+
+
+.project-icon, .change-log-icon, .reports-icon, .admin-icon, .contractor-icon, .manage-accounts {color:#a6aa12;font-size: 25px;margin-right: 15px;}
+
+
+/* Inner Page Title With Status */
+
+.page-title-red-status {color: #ff0800;margin-left: 12px;margin-right: 12px;}
+
+.page-title-green-status {color: #008000;margin-left: 12px;margin-right: 12px;}
+
+.page-title-yellow-status {color: #fcff02;margin-left: 12px;margin-right: 12px;}
+
+
+/* Select Field */
+
+
+
+.select-filed-custom-width {padding-right: 0px;width: 34%;}
+
+
+
+
+
+/* Showing 1-5 of 50 items */
+
+
+.showing-text-custom {font-size: 11px;width: 21%;padding-left: 0px;padding-right: 0px;}
+
+small{
+	font-size:12px !important;
+}
+
+.mg-top-20{
+	margin-top: 20px !important;
+}
+
+.mg-top-25{
+	margin-top: 25px;
+}
+
+/* Pagination */
+
+
+.pagination-custom-width {width: 45%;padding-left: 0px;}
+
+.chevron-left-custom-color {color: #717171;}
+
+.chevron-right-custom-color {color: #717171;}
+
+
+
+
+
+
+/* Administraion */
+
+.admin-custom-bg {background: #ffffff;padding: 60px;padding-left: 0px;padding-right: 0px;}
+
+.admin-custom-border {border-right: solid #ebeff6 1px;}
+
+
+.admin-custom-container {font-size: 60px;margin: 0 auto;display: block;}
+
+
+.admin-bg-color {color: #cbcdcd;}
+
+.admin-title {text-align: center;margin-top: 15px;padding-left: 0px;padding-right: 0px;}
+
+.admin-enter {text-align: center;margin-top: 15px;}
+
+
+
+
+
+/* Back Button */
+
+
+.back-button-custom {margin-top: 0px;}
+
+
+
+
+
+/* Custom label */
+
+.custom-label {width: 100%;float: right;margin-top: 20px;margin-bottom: 10px; }
+
+
+/* Input Custom */
+
+
+.input-custom {width: 75%;float: left; height:30px;}
+
+
+/* Edit Button */
+
+
+.edit-custom {margin-left: 12px;font-size: 14px;height:30px;}
+
+
+/* Select Custom */
+
+
+.select-custom {width: 100%;}
+
+
+
+/* Text Area */
+
+
+.custom-text-area-read-only {background-color: #ebeef5;color: #717171;padding:12px; width:100%;}
+
+.custom-text-area {background-color: #ffffff;color: #717171;padding:12px; width:100%;}
+
+
+.custom-text-area-large {background-color: #ffffff;color: #717171;padding:12px;width:90%;margin:0 auto; display:block;}
+
+
+
+
+/* Update button */
+
+
+.update-button {margin-left: 0px;font-size: 14px;margin-top: 20px;}
+
+
+/* Buttons */
+
+
+.add-budget-year {margin-left: 0px;font-size: 14px;margin-top: 0px;}
+
+
+.add-all-missing-budget-years {margin-left: 20px;font-size: 14px;margin-top: 0px;}
+
+
+
+
+/*================================== Road Section Selection =================================*/
+
+
+.road-section-selection-custom {margin-top: 20px;margin-bottom: 10px;padding-left: 15px;}
+
+
+.road-section-selection-custom .left {float: left;padding-left: 0px;margin-bottom: 15px;}
+
+.road-section-selection-custom .right {float: right;padding-right: 0px;margin-bottom: 15px;}
+
+.second-row-right-buttons {padding-right: 0px;float: right;width: 30.7%;padding-left: 0px;}
+
+.show-selected-roads-only {margin-left: 0px;font-size: 14px;margin-top: 20px;margin-bottom: 10px;}
+
+.show-selected-roads-only-p {padding-left: 0px;margin-top: 15px;text-decoration: underline;margin-bottom: 30px;}
+
+.selected {color: #a6aa12;}
+
+
+/* Projects 1 Styling */
+
+.road-selection-last-page{
+	float:right;
+	margin-left:10px;
+}
+
+.road-selection-next-page{
+	float:right;
+}
+
+.road-selection-mg-left0{
+	margin-left:0px !important;
+}
+
+.road-selection-dots{
+	float:left;
+	width:5%;
+	margin-left:10px;
+}
+
+.road-selection-spinner{
+	width:17%;
+	margin-left:10px;
+	float:left;
+}
+
+.road-selection-border{
+	margin-top:10px;
+	border-top: #ebeff6 solid 1px;
+}
+
+.road-selection-mg-bottom20{
+	margin-bottom: 20px;
+	margin-top:0;
+}
+
+.road-selection-mg-bottom10{
+	margin-bottom:10px;
+}
+
+.white-btn-text{
+	color:#fff !important;
+}
+
+.ltp-mg-bottom0{
+	margin-bottom:0px;	
+}
+
+.ltp-mg-bottom20{
+	margin-bottom:20px;
+	margin-top:0;
+}
+
+.pub-feat-mg-bottom0{
+	margin-bottom:0px;
+}
+
+pub-feat-mg-bottom20{
+	margin-bottom:20px;
+	margin-top:0;
+}
+
+.mg-bottom0{
+	margin-bottom:0;
+}
+
+.mg-bottom20{
+	margin-bottom:20px;
+}
+
+.cost-graph-canvas{
+	display: inline-block;
+	width: 557px;
+	height: 185px;
+	vertical-align: top;
+}
+
+.summary-text-area{
+	min-height: 262px;
+	background-color: #ffffff;
+	color: #717171;
+	padding:12px;
+	width:90%;
+	margin:0 auto;
+	display:block;
+}
+
+.mg-top20{
+	margin-top:20px;
+}
+
+.reports-graph-canvas{
+	display: inline-block;
+	width: 557px;
+	height: 185px; 
+	vertical-align: top;
+}
+
+/*====================== Contractors ==============================*/
+
+.green-icon{
+	color:#a6aa12;font-size: 25px;margin-right: 15px;
+}
+
+.red{
+	color:red;
+}
+
+/*======================= Processes ================================*/
+
+
+.width100{
+	width:100%;
+}
+
+
+/*====================Transfer Views ==============================*/
+
+btn-add{
+	margin-top:20px;margin-left: 0px;font-size: 14px;
+}
+
+/*============== Process Transfer Elements =======================*/
+
+.process-transfer-green{
+	color: #a6aa12;margin-left: 12px;margin-right: 12px;
+}
+
+.white-bg{
+	background:#fff;
+}
+
+.process-transfer-pd20{
+	padding:0 20px 20px 20px;
+}
+
+.mg-top20-mg-bottom10{
+	margin:20px 0 10px 0;
+	width: 100%;
+	float: right;
+}
+
+.wd100-flt-left{
+	width:100%;
+	float:left;
+}
+
+.process-green-btn{
+	margin-top:20px;margin-left: 0px;background-color: #a6aa12;font-size: 14px;
+}
+
+.mg-top25{
+	margin-top:25px;
+}
+
+/*============== edit Process Transfer Elements ===================*/
+
+.mg-top0{
+	margin-top:0;
+}
+
+.mg-top-10{
+	margin-top:10px;
+}
+
+/*============================= Sign In ===========================*/
+
+.logo-signin{
+	width:150px;
+	height:85px;
+	margin:0 auto;
+}
+
+
+
+/* General Styling - RD */
+
+.text-mg-both{
+	margin:15px 0 15px 0;
+}
+
+.button-inline{
+	display:inline;
+}
+
+.pd-left{
+	padding-left:10px;
+	display:inline;
+}
+
+.button-nav-left{
+	list-style:none;
+	margin:10px 0 10px -45px !important;
+}
+
+.button-nav-left li{
+	display: inline;
+}
+
+.pull-right-large{
+	float:right !important;
+}
+
+.rd-selection-gr-btn{
+	background-color:#f7f7f7 !important;
+	color:#a6aa12 !important;
+}
+
+.rd-selection-gr-btn:hover{
+	color: #fff !important;
+	background-color: #95a0bb !important;
+	border-color: #8994b3 !important; 
+}
+
+.pd-r-0{
+	padding-right:0 !important;
+}
+
+.mg-left-top{
+	margin:20px 0 0 20px;
+}
+
+
+.projects .row{
+	margin-left:0 !important;
+	margin-right:0 !important;
+}
+
+.projects .col-lg-6{
+	padding-left:15px !important;
+	padding-right:15px !important;
+}
+
+
+.projects .col-lg-12{
+	padding-left:15px !important;
+	padding-right:15px !important;
+}
+
+.projects .wrapper{
+	padding:15px 0 0 0 !important;
+}
+
+.wd-85{
+	width:85% !important;
+}
+
+.projects label{
+	margin-top:20px !important;
+}
+
+.wd-100{
+	width:100% !important;
+}
+
+
+
+/* #Media Queries
+================================================== */
+
+	/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) ----- iPHONE 6 AND 6 PLUS */
+	@media only screen and (max-width: 479px) {
+		
+		/* -------- Home Page Styling ---------------- */
+		
+			.showing-text-custom{
+				width:100%;
+			}
+			
+			.pagination-custom-width{
+				width:100%;
+			}
+			
+			.nav-brand img {
+				max-height: none;
+				margin-top: -7px;
+				vertical-align: middle;
+				width:auto !important;
+		
+			}
+			
+			.text-center-small{
+				text-align: center !important;
+			}
+			
+			.admin-custom-border{
+				border:none !important;
+			}
+			
+			.bgr-menu{
+				display:none;
+			}
+			
+			.lights{
+				font-size:12px;
+			}
+			
+			.project-head h2{
+				font-size:22px;
+			}
+			
+			.pull-right-large{
+				float:none !important;
+			}
+			
+			.input-custom{
+				width:73% !important;
+			}
+			
+			.btn-ph-pd{
+				margin-top:10px !important;	
+				margin-bottom:10px !important;	
+			}
+			
+			.wd-85{
+				width:100% !important;
+				}
+			
+	}
+
+	/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
+	@media only screen and (min-width: 480px) and (max-width: 767px) {
+		
+			.showing-text-custom{
+				width:100%;
+			}
+			
+			.pagination-custom-width{
+				width:100%;
+			}
+
+
+			.nav-brand img {
+					max-height: none;
+					margin-top: -7px;
+					vertical-align: middle;
+					width:auto !important;
+			
+			}
+			
+			.text-center-small{
+				text-align: center !important;
+			}
+		
+			.admin-custom-border{
+				border:none !important;
+			}
+			
+			.bgr-menu{
+				display:none;
+			}
+			
+			.pull-right-large{
+				float:none !important;
+			}
+			
+				.wd-85{
+				width:80% !important;
+				}
+
+		}
+		
+		
+		
+		
+	/* All Mobile Sizes (devices and browser) */
+	@media only screen and (max-width: 767px) {
+		
+			.showing-text-custom{
+				width:100%;
+			}
+			
+			.pagination-custom-width{
+				width:100%;
+			}
+
+		
+			.nav-brand img {
+				max-height: none;
+				margin-top: -7px;
+				vertical-align: middle;
+				width:auto !important;
+		
+			}
+			
+			.text-center-small{
+				text-align: center !important;
+			}
+			
+			.admin-custom-border{
+				border:none !important;
+			}
+			
+
+			.admin-enter {
+				text-align: center;
+				margin-top: 15px;
+				margin-bottom:20px;
+			}
+			
+			.bgr-menu{
+				display:none;
+			}
+			
+			.pull-right-large{
+				float:none !important;
+			}
+		
+	 	}		
+	 	
+	 	
+	 	
+	 	
+	/* Tablet Portrait size to standard 960 (devices and browsers) */
+	@media only screen and (min-width: 768px) and (max-width: 989px) {
+		
+			.table-responsive {
+			    width: 100%;
+			    margin-bottom: 15px;
+			    overflow-y: hidden;
+			    overflow-x: scroll;
+			    -ms-overflow-style: -ms-autohiding-scrollbar;
+			    border: 1px solid #DDD;
+			    -webkit-overflow-scrolling: touch;
+			}
+					
+	
+		}	 	
+		
+		
+		
+	
+	/* Smaller than standard 960 (devices and browsers) */
+	@media only screen and (max-width: 989px) {
+		
+		
+	
+		}	
+		
+		
+	@media only screen and (min-width: 989px) and (max-width: 1070px) {
+		
+			.table-responsive.acc{
+			    width: 100%;
+			    margin-bottom: 15px;
+			    overflow-y: hidden;
+			    overflow-x: scroll;
+			    -ms-overflow-style: -ms-autohiding-scrollbar;
+			    border: 1px solid #DDD;
+			    -webkit-overflow-scrolling: touch;
+			}
+			
+				.wd-85{
+				width:80% !important;
+				}
+					
+	
+		}	 
+		
+		
+		
+		
+	/* large screens with 1140px with */
+
+	@media only screen and (min-width: 1140px)  {
+
+
+
+
+
+		}		
+
+
+	@media only screen and (min-width: 1200px) and (max-width: 1408px) {
+		
+			.wd-85{
+				width:80% !important;
+				}
+					
+	
+		}	
+
+
+
+
+
+
